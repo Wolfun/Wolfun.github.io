@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Wolfun.github.io</id>
+    <title>Wolfun.blog</title>
+    <updated>2021-12-28T06:07:51.549Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Wolfun.github.io"/>
+    <link rel="self" href="https://Wolfun.github.io/atom.xml"/>
+    <subtitle>I am new wave and I am old school</subtitle>
+    <logo>https://Wolfun.github.io/images/avatar.png</logo>
+    <icon>https://Wolfun.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, Wolfun.blog</rights>
+    <entry>
+        <title type="html"><![CDATA[自白书]]></title>
+        <id>https://Wolfun.github.io/post/k7mKQSKvW/</id>
+        <link href="https://Wolfun.github.io/post/k7mKQSKvW/">
+        </link>
+        <updated>2021-05-05T00:24:51.000Z</updated>
+        <content type="html"><![CDATA[<p>Life is fu*king moving😎<br>
+无人问津的巷口总是开满鲜花</p>
+]]></content>
+    </entry>
+</feed>
